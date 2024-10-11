@@ -411,7 +411,7 @@ h2 span {
             display: none;
             }
         }
-        @media screen and (max-width: 190px){
+        @media screen and (max-width: 271px){
             header{
             display: none;
             }
