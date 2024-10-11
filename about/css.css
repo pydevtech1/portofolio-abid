@@ -11,7 +11,7 @@ html{
 {
 display: flex;
 position: absolute;
-height: 2300px;
+height: 22800px;
             width: 100%;
             top: 0; /* Menjamin posisi dari atas */
             left: 0; /* Menjamin posisi dari kiri */
@@ -20,7 +20,7 @@ height: 2300px;
 
 header{
     position: relative;
-    height: 2300px;
+    height: 2800px;
     width: 100%;
     background-color: #140016;
     }
