@@ -45,6 +45,18 @@ body{
         list-style: none;
     }
 
+     h1{
+        color: #fff;
+        fOnt-size: 25px;
+        text-align: center;
+        }
+        p{
+            overflow: hidden;
+        color: darkorchid;
+        font-size: 30px;
+        text-align: center;
+        }
+
 h2 span {
     color: #BD53ED;
     position: relative;
@@ -66,20 +78,6 @@ h2 span {
     @keyframes blink {
     50% { opacity: 0 }
     }
-
-    h1{
-        color: #fff;
-        fOnt-size: 25px;
-        text-align: center;
-        }
-        p{
-            overflow: hidden;
-        color: darkorchid;
-        font-size: 30px;
-        text-align: center;
-        }
-
-
         h2{
             font-size: 50px;
             text-align: center;
